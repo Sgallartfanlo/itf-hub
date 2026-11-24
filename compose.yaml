@@ -1,0 +1,93 @@
+
+name: itf-hub
+
+services:
+
+  # ==========================================
+  # POSTGRESQL
+  # ==========================================
+  postgres:
+    image: postgres:17-alpine
+    container_name: itf-postgres
+    restart: unless-stopped
+
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - pg_isready -U "$$POSTGRES_USER" -d "$$POSTGRES_DB"
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+    networks:
+      - itf-network
+
+  # ==========================================
+  # FASTAPI BACKEND
+  # ==========================================
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+
+    container_name: itf-backend
+    restart: unless-stopped
+
+    environment:
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+
+    ports:
+      - "127.0.0.1:8000:8000"
+
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+    networks:
+      - itf-network
+
+  # ==========================================
+  # REACT FRONTEND
+  # ==========================================
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+
+    container_name: itf-frontend
+    restart: unless-stopped
+
+    ports:
+      - "127.0.0.1:5173:5173"
+
+    depends_on:
+      - backend
+
+    networks:
+      - itf-network
+
+# ==========================================
+# VOLUMS
+# ==========================================
+volumes:
+  postgres_data:
+
+# ==========================================
+# XARXA COMPARTIDA
+# ==========================================
+networks:
+  itf-network:
+    driver: bridge

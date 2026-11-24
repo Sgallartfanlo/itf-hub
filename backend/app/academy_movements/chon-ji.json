@@ -1,0 +1,214 @@
+{
+  "tul_name": "Chon-Ji",
+  "movements": [
+    {
+      "movement_number": 1,
+      "stance": "Gunnun Sogi esquerra",
+      "technique": "Bloqueig baix amb l'avantbraç exterior esquerre",
+      "technique_original": "Left outer-forearm low block",
+      "direction": "B",
+      "execution": "Desplaça el peu esquerre cap a B, adopta una posició caminant esquerra orientada a B i bloqueja a nivell baix amb l'avantbraç exterior esquerre cap a B.",
+      "execution_original": "Step the left foot toward B, take a left walkingstance facing B, and perform an outer-forearm low block with the left arm toward B.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 2,
+      "stance": "Gunnun Sogi dreta",
+      "technique": "Cop de puny mitjà amb el puny dret",
+      "technique_original": "Right forefist middle punch",
+      "direction": "B",
+      "execution": "Desplaça el peu dret cap a B, adopta una posició caminant dreta orientada a B i colpeja a nivell mitjà amb el puny dret cap a B.",
+      "execution_original": "Step the right foot toward B, take a right walkingstance facing B, and deliver a middle-level forefist punch with the right hand toward B.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 3,
+      "stance": "Gunnun Sogi dreta",
+      "technique": "Bloqueig baix amb l'avantbraç exterior dret",
+      "technique_original": "Right outer-forearm low block",
+      "direction": "A",
+      "execution": "Desplaça el peu dret cap a A, girant en sentit horari, adopta una posició caminant dreta orientada a A i bloqueja a nivell baix amb l'avantbraç exterior dret cap a A.",
+      "execution_original": "Step the right foot toward A, turning clockwise, take a right walkingstance facing A, and perform an outer-forearm low block with the right arm toward A.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 4,
+      "stance": "Gunnun Sogi esquerra",
+      "technique": "Cop de puny mitjà amb el puny esquerre",
+      "technique_original": "Left forefist middle punch",
+      "direction": "A",
+      "execution": "Desplaça el peu esquerre cap a A, adopta una posició caminant esquerra orientada a A i colpeja a nivell mitjà amb el puny esquerre cap a A.",
+      "execution_original": "Step the left foot toward A, take a left walkingstance facing A, and deliver a middle-level forefist punch with the left hand toward A.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 5,
+      "stance": "Gunnun Sogi esquerra",
+      "technique": "Bloqueig baix amb l'avantbraç exterior esquerre",
+      "technique_original": "Left outer-forearm low block",
+      "direction": "D",
+      "execution": "Desplaça el peu esquerre cap a D, adopta una posició caminant esquerra orientada a D i bloqueja a nivell baix amb l'avantbraç exterior esquerre cap a D.",
+      "execution_original": "Step the left foot toward D, take a left walkingstance facing D, and perform an outer-forearm low block with the left arm toward D.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 6,
+      "stance": "Gunnun Sogi dreta",
+      "technique": "Cop de puny mitjà amb el puny dret",
+      "technique_original": "Right forefist middle punch",
+      "direction": "D",
+      "execution": "Desplaça el peu dret cap a D, adopta una posició caminant dreta orientada a D i colpeja a nivell mitjà amb el puny dret cap a D.",
+      "execution_original": "Step the right foot toward D, take a right walkingstance facing D, and deliver a middle-level forefist punch with the right hand toward D.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 7,
+      "stance": "Gunnun Sogi dreta",
+      "technique": "Bloqueig baix amb l'avantbraç exterior dret",
+      "technique_original": "Right outer-forearm low block",
+      "direction": "C",
+      "execution": "Desplaça el peu dret cap a C, girant en sentit horari, adopta una posició caminant dreta orientada a C i bloqueja a nivell baix amb l'avantbraç exterior dret cap a C.",
+      "execution_original": "Step the right foot toward C, turning clockwise, take a right walkingstance facing C, and perform an outer-forearm low block with the right arm toward C.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 8,
+      "stance": "Gunnun Sogi esquerra",
+      "technique": "Cop de puny mitjà amb el puny esquerre",
+      "technique_original": "Left forefist middle punch",
+      "direction": "C",
+      "execution": "Desplaça el peu esquerre cap a C, adopta una posició caminant esquerra orientada a C i colpeja a nivell mitjà amb el puny esquerre cap a C.",
+      "execution_original": "Step the left foot toward C, take a left walkingstance facing C, and deliver a middle-level forefist punch with the left hand toward C.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 9,
+      "stance": "Niunja Sogi dreta",
+      "technique": "Bloqueig mitjà amb l'avantbraç interior esquerre",
+      "technique_original": "Left inner-forearm middle block",
+      "direction": "A",
+      "execution": "Desplaça el peu esquerre cap a A, adopta una posició en L dreta orientada a A i executa un bloqueig mitjà amb l'avantbraç interior esquerre cap a A.",
+      "execution_original": "Step the left foot toward A, take a right L-stance facing A, and perform a middle block with the left inner forearm toward A.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 10,
+      "stance": "Gunnun Sogi dreta",
+      "technique": "Cop de puny mitjà amb el puny dret",
+      "technique_original": "Right forefist middle punch",
+      "direction": "A",
+      "execution": "Desplaça el peu dret cap a A, adopta una posició caminant dreta orientada a A i colpeja a nivell mitjà amb el puny dret cap a A.",
+      "execution_original": "Step the right foot toward A, take a right walkingstance facing A, and deliver a middle-level forefist punch with the right hand toward A.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 11,
+      "stance": "Niunja Sogi esquerra",
+      "technique": "Bloqueig mitjà amb l'avantbraç interior dret",
+      "technique_original": "Right inner-forearm middle block",
+      "direction": "B",
+      "execution": "Desplaça el peu dret cap a B, girant en sentit horari, adopta una posició en L esquerra orientada a B i executa un bloqueig mitjà amb l'avantbraç interior dret cap a B.",
+      "execution_original": "Step the right foot toward B, turning clockwise, take a left L-stance facing B, and perform a middle block with the right inner forearm toward B.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 12,
+      "stance": "Gunnun Sogi esquerra",
+      "technique": "Cop de puny mitjà amb el puny esquerre",
+      "technique_original": "Left forefist middle punch",
+      "direction": "B",
+      "execution": "Desplaça el peu esquerre cap a B, adopta una posició caminant esquerra orientada a B i colpeja a nivell mitjà amb el puny esquerre cap a B.",
+      "execution_original": "Step the left foot toward B, take a left walkingstance facing B, and deliver a middle-level forefist punch with the left hand toward B.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 13,
+      "stance": "Niunja Sogi dreta",
+      "technique": "Bloqueig mitjà amb l'avantbraç interior esquerre",
+      "technique_original": "Left inner-forearm middle block",
+      "direction": "C",
+      "execution": "Desplaça el peu esquerre cap a C, adopta una posició en L dreta orientada a C i executa un bloqueig mitjà amb l'avantbraç interior esquerre cap a C.",
+      "execution_original": "Step the left foot toward C, take a right L-stance facing C, and perform a middle block with the left inner forearm toward C.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 14,
+      "stance": "Gunnun Sogi dreta",
+      "technique": "Cop de puny mitjà amb el puny dret",
+      "technique_original": "Right forefist middle punch",
+      "direction": "C",
+      "execution": "Desplaça el peu dret cap a C, adopta una posició caminant dreta orientada a C i colpeja a nivell mitjà amb el puny dret cap a C.",
+      "execution_original": "Step the right foot toward C, take a right walkingstance facing C, and deliver a middle-level forefist punch with the right hand toward C.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 15,
+      "stance": "Niunja Sogi esquerra",
+      "technique": "Bloqueig mitjà amb l'avantbraç interior dret",
+      "technique_original": "Right inner-forearm middle block",
+      "direction": "D",
+      "execution": "Desplaça el peu dret cap a D, girant en sentit horari, adopta una posició en L esquerra orientada a D i executa un bloqueig mitjà amb l'avantbraç interior dret cap a D.",
+      "execution_original": "Step the right foot toward D, turning clockwise, take a left L-stance facing D, and perform a middle block with the right inner forearm toward D.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 16,
+      "stance": "Gunnun Sogi esquerra",
+      "technique": "Cop de puny mitjà amb el puny esquerre",
+      "technique_original": "Left forefist middle punch",
+      "direction": "D",
+      "execution": "Desplaça el peu esquerre cap a D, adopta una posició caminant esquerra orientada a D i colpeja a nivell mitjà amb el puny esquerre cap a D.",
+      "execution_original": "Step the left foot toward D, take a left walkingstance facing D, and deliver a middle-level forefist punch with the left hand toward D.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 17,
+      "stance": "Gunnun Sogi dreta",
+      "technique": "Cop de puny mitjà amb el puny dret",
+      "technique_original": "Right forefist middle punch",
+      "direction": "D",
+      "execution": "Desplaça el peu dret cap a D, adopta una posició caminant dreta orientada a D i colpeja a nivell mitjà amb el puny dret cap a D.",
+      "execution_original": "Step the right foot toward D, take a right walkingstance facing D, and deliver a middle-level forefist punch with the right hand toward D.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 18,
+      "stance": "Gunnun Sogi esquerra",
+      "technique": "Cop de puny mitjà amb el puny esquerre",
+      "technique_original": "Left forefist middle punch",
+      "direction": "D",
+      "execution": "Desplaça el peu dret cap a C, adopta una posició caminant esquerra orientada a D i colpeja a nivell mitjà amb el puny esquerre cap a D.",
+      "execution_original": "Step the right foot toward C, take a left walkingstance facing D, and deliver a middle-level forefist punch with the left hand toward D.",
+      "kihap": false,
+      "notes": null
+    },
+    {
+      "movement_number": 19,
+      "stance": "Gunnun Sogi dreta",
+      "technique": "Cop de puny mitjà amb el puny dret",
+      "technique_original": "Right forefist middle punch",
+      "direction": "D",
+      "execution": "Desplaça el peu esquerre cap a C, adopta una posició caminant dreta orientada a D i colpeja a nivell mitjà amb el puny dret cap a D.",
+      "execution_original": "Step the left foot toward C, take a right walkingstance facing D, and deliver a middle-level forefist punch with the right hand toward D.",
+      "kihap": false,
+      "notes": null
+    }
+  ]
+}

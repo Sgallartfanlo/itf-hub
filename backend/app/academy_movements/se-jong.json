@@ -1,0 +1,269 @@
+{
+  "tul_name": "Se-Jong",
+  "movements": [
+    {
+      "movement_number": 1,
+      "stance": "left walking stance",
+      "technique": "Moviment 1 — traducció pendent de revisió",
+      "technique_original": "Move the left foot to B, forming a left walking stance toward B at the same time executing a low block to B with the left forearm.",
+      "direction": "B",
+      "execution": null,
+      "execution_original": "Move the left foot to B, forming a left walking stance toward B at the same time executing a low block to B with the left forearm.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 2,
+      "stance": null,
+      "technique": "Moviment 2 — traducció pendent de revisió",
+      "technique_original": "Bring the left foot to the right foot, and then move the right foot to A to form a left L-stance toward A while executing a twin forearm block.",
+      "direction": "A",
+      "execution": null,
+      "execution_original": "Bring the left foot to the right foot, and then move the right foot to A to form a left L-stance toward A while executing a twin forearm block.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 3,
+      "stance": null,
+      "technique": "Moviment 3 — traducció pendent de revisió",
+      "technique_original": "Execute a middle side piercing kick to D with the right foot.",
+      "direction": "D",
+      "execution": null,
+      "execution_original": "Execute a middle side piercing kick to D with the right foot.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 4,
+      "stance": "left walking stance",
+      "technique": "Moviment 4 — traducció pendent de revisió",
+      "technique_original": "Lower the right foot to D, and then move the left foot to F to form a left walking stance toward F while executing a rising block with the left forearm.",
+      "direction": "D",
+      "execution": null,
+      "execution_original": "Lower the right foot to D, and then move the left foot to F to form a left walking stance toward F while executing a rising block with the left forearm.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 5,
+      "stance": "sitting stance",
+      "technique": "Moviment 5 — traducció pendent de revisió",
+      "technique_original": "Bring the left foot to the right foot, and then move the right foot to E to form a sitting stance toward D while executing a middle strike to E with the right knife-hand.",
+      "direction": "E",
+      "execution": null,
+      "execution_original": "Bring the left foot to the right foot, and then move the right foot to E to form a sitting stance toward D while executing a middle strike to E with the right knife-hand.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 6,
+      "stance": "ready stance B",
+      "technique": "Moviment 6 — traducció pendent de revisió",
+      "technique_original": "Bring the right foot to the left foot, forming a closed ready stance B toward D.",
+      "direction": "D",
+      "execution": null,
+      "execution_original": "Bring the right foot to the left foot, forming a closed ready stance B toward D.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 7,
+      "stance": null,
+      "technique": "Moviment 7 — traducció pendent de revisió",
+      "technique_original": "Jump to D to form a left X-stance toward DG while executing a high side strike to D with the left back fist, bringing the right finger belly to the left side fist.",
+      "direction": "D",
+      "execution": null,
+      "execution_original": "Jump to D to form a left X-stance toward DG while executing a high side strike to D with the left back fist, bringing the right finger belly to the left side fist.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 8,
+      "stance": "right walking stance",
+      "technique": "Moviment 8 — traducció pendent de revisió",
+      "technique_original": "Move the right foot to G, forming a right walking stance toward G while executing a high punch to G with the right fist.",
+      "direction": null,
+      "execution": null,
+      "execution_original": "Move the right foot to G, forming a right walking stance toward G while executing a high punch to G with the right fist.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 9,
+      "stance": "left fixed stance",
+      "technique": "Moviment 9 — traducció pendent de revisió",
+      "technique_original": "Move the right foot on line GH to form a left fixed stance toward H while executing a high guarding block to H with the forearm.",
+      "direction": null,
+      "execution": null,
+      "execution_original": "Move the right foot on line GH to form a left fixed stance toward H while executing a high guarding block to H with the forearm.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 10,
+      "stance": "right walking stance",
+      "technique": "Moviment 10 — traducció pendent de revisió",
+      "technique_original": "Move the right foot to H, forming a right walking stance toward H while executing a middle thrust to H with the right straight finger tip.",
+      "direction": null,
+      "execution": null,
+      "execution_original": "Move the right foot to H, forming a right walking stance toward H while executing a middle thrust to H with the right straight finger tip.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 11,
+      "stance": "left walking stance",
+      "technique": "Moviment 11 — traducció pendent de revisió",
+      "technique_original": "Bring the right foot to the left foot, and then move the left foot to G to form a left walking stance toward G while executing a high side strike to G with the left back fist.",
+      "direction": null,
+      "execution": null,
+      "execution_original": "Bring the right foot to the left foot, and then move the left foot to G to form a left walking stance toward G while executing a high side strike to G with the left back fist.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 12,
+      "stance": "sitting stance",
+      "technique": "Moviment 12 — traducció pendent de revisió",
+      "technique_original": "Move the left foot on line GH to form a sitting stance toward C while executing a scooping block with the left palm.",
+      "direction": "C",
+      "execution": null,
+      "execution_original": "Move the left foot on line GH to form a sitting stance toward C while executing a scooping block with the left palm.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 13,
+      "stance": null,
+      "technique": "Moviment 13 — traducció pendent de revisió",
+      "technique_original": "Execute a middle turning kick to C with the left foot.",
+      "direction": "C",
+      "execution": null,
+      "execution_original": "Execute a middle turning kick to C with the left foot.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 14,
+      "stance": null,
+      "technique": "Moviment 14 — traducció pendent de revisió",
+      "technique_original": "Lower the left foot to C in a jumping motion, forming a left X-stance toward CF while executing a high block to C with the left double forearm.",
+      "direction": "C",
+      "execution": null,
+      "execution_original": "Lower the left foot to C in a jumping motion, forming a left X-stance toward CF while executing a high block to C with the left double forearm.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 15,
+      "stance": "sitting stance",
+      "technique": "Moviment 15 — traducció pendent de revisió",
+      "technique_original": "Move the right foot to F to form a sitting stance toward C while extending the right fist horizontally to C. Perform in a slow motion.",
+      "direction": "F",
+      "execution": null,
+      "execution_original": "Move the right foot to F to form a sitting stance toward C while extending the right fist horizontally to C. Perform in a slow motion.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 16,
+      "stance": "sitting stance",
+      "technique": "Moviment 16 — traducció pendent de revisió",
+      "technique_original": "Execute a front strike to C with the left back fist while maintaining a sitting stance toward C.",
+      "direction": "C",
+      "execution": null,
+      "execution_original": "Execute a front strike to C with the left back fist while maintaining a sitting stance toward C.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 17,
+      "stance": "left diagonal stance",
+      "technique": "Moviment 17 — traducció pendent de revisió",
+      "technique_original": "Bring the right foot behind the left foot, and then move the left foot to E, forming a left diagonal stance toward C while executing a pressing block with a twin palm.",
+      "direction": "E",
+      "execution": null,
+      "execution_original": "Bring the right foot behind the left foot, and then move the left foot to E, forming a left diagonal stance toward C while executing a pressing block with a twin palm.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 18,
+      "stance": "left walking stance",
+      "technique": "Moviment 18 — traducció pendent de revisió",
+      "technique_original": "Execute a middle block to C with a double arc-hand while forming a left walking stance toward CE.",
+      "direction": "C",
+      "execution": null,
+      "execution_original": "Execute a middle block to C with a double arc-hand while forming a left walking stance toward CE.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 19,
+      "stance": "right one-leg stance",
+      "technique": "Moviment 19 — traducció pendent de revisió",
+      "technique_original": "Pull the left reverse footsword to the right knee joint to form a right one-leg stance toward C at the same time executing a high side block to F with the right outer forearm and a low side block to E with the left forearm.",
+      "direction": "C",
+      "execution": null,
+      "execution_original": "Pull the left reverse footsword to the right knee joint to form a right one-leg stance toward C at the same time executing a high side block to F with the right outer forearm and a low side block to E with the left forearm.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 20,
+      "stance": "right walking stance",
+      "technique": "Moviment 20 — traducció pendent de revisió",
+      "technique_original": "Lower the left foot to D forming a right walking stance toward C while executing a pressing block with the right palm. Perform in a slow motion.",
+      "direction": "D",
+      "execution": null,
+      "execution_original": "Lower the left foot to D forming a right walking stance toward C while executing a pressing block with the right palm. Perform in a slow motion.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 21,
+      "stance": "right one-leg stance",
+      "technique": "Moviment 21 — traducció pendent de revisió",
+      "technique_original": "Pull the left instep to the hollow of the right leg to form a right one-leg stance toward C while striking the left palm with the right back forearm.",
+      "direction": "C",
+      "execution": null,
+      "execution_original": "Pull the left instep to the hollow of the right leg to form a right one-leg stance toward C while striking the left palm with the right back forearm.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 22,
+      "stance": "right fixed stance",
+      "technique": "Moviment 22 — traducció pendent de revisió",
+      "technique_original": "Lower the left foot to C, turning clockwise to form a right fixed stance toward D while thrusting to C with the left side elbow.",
+      "direction": "C",
+      "execution": null,
+      "execution_original": "Lower the left foot to C, turning clockwise to form a right fixed stance toward D while thrusting to C with the left side elbow.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 23,
+      "stance": null,
+      "technique": "Moviment 23 — traducció pendent de revisió",
+      "technique_original": "Move the right foot to A, forming a left L-stance toward A while executing a high guarding block to A with a knife-hand.",
+      "direction": "A",
+      "execution": null,
+      "execution_original": "Move the right foot to A, forming a left L-stance toward A while executing a high guarding block to A with a knife-hand.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    },
+    {
+      "movement_number": 24,
+      "stance": null,
+      "technique": "Moviment 24 — traducció pendent de revisió",
+      "technique_original": "Bring the right foot to the left foot, and then move the left foot to B to form a right L-stance toward B while executing a middle punch to B with the right fist.",
+      "direction": "B",
+      "execution": null,
+      "execution_original": "Bring the right foot to the left foot, and then move the left foot to B to form a right L-stance toward B while executing a middle punch to B with the right fist.",
+      "kihap": false,
+      "notes": "Text català pendent de revisió tècnica. Consulta els camps originals."
+    }
+  ]
+}
